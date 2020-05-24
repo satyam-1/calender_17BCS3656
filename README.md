@@ -46,5 +46,5 @@ copy of official Google Calendar app for your Android phone
  
 ##  Developer
   Satyam Kumar Mishra
-  (17BCS3656@cuchd.in/satyammishra366@gmmail.com)
+  (17BCS3656@cuchd.in/satyammishra366@gmail.com)
   
